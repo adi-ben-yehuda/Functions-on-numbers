@@ -30,7 +30,7 @@ Before installing this project, you need to install on your computer:
 After it, run the following commands in the terminal:
 
 ```
-git clone https://github.com/adi-ben-yehuda/Arkanoid-Game.git
+git clone https://github.com/adi-ben-yehuda/Functions-on-numbers.git
 make
 ./a.out
 ```
