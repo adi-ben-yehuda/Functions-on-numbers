@@ -34,6 +34,5 @@ git clone https://github.com/adi-ben-yehuda/Arkanoid-Game.git
 make
 ./a.out
 ```
-
 ## Contact
 Created by @adi-ben-yehuda - feel free to contact me!
