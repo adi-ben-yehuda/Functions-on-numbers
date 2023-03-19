@@ -1,7 +1,5 @@
 # Functions-on-numbers
 
-# Arkanoid
-
 ## Introduction
 In this project we will experiment with using common commands, implementing else-if and a loop, defining global variables, and using a library function (printf).
 
@@ -33,13 +31,9 @@ After it, run the following commands in the terminal:
 
 ```
 git clone https://github.com/adi-ben-yehuda/Arkanoid-Game.git
-ant compile
-ant -Dargs="{text}" run
+make
+./a.out
 ```
-The text will contain the levels that will be shown in the game. There are four levels. If the user enters different numbers or letters, the program will ignore it. 
 
 ## Contact
 Created by @adi-ben-yehuda - feel free to contact me!
-
-
-
